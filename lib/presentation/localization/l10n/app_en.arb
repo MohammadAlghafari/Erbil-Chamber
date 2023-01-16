@@ -1,0 +1,234 @@
+{
+  "loading":"Loading...",
+  "@loading":{
+    "description": "Loading"
+  },
+  "search_":"Search...",
+  "@search_":{
+    "description": "Search"
+  },
+  "erbil_chamber":"Erbil Chamber",
+  "@erbil_chamber":{
+    "description": "Erbil Chamber"
+  },
+  "categories":"Categories",
+  "@categories":{
+    "description": "Categories"
+  },
+  "home":"Home",
+  "@home":{
+    "description": "Home"
+  },
+  "favorite":"Favorite",
+  "@favorite":{
+    "description": "Favorite"
+  },
+  "near_by":"NearBy",
+  "@near_by":{
+    "description": "NearBy"
+  },
+  "profile":"Profile",
+  "@profile":{
+    "description": "Profile"
+  },
+  "map":"Map",
+  "@map":{
+    "description": "Map"
+  },
+  "list":"List",
+  "@list":{
+    "description": "List"
+  },
+  "select_your_prefered_language":"Select Your Prefered Language",
+  "@select_your_prefered_language":{
+    "description": "Select Your Prefered Language"
+  },
+  "search_for_company":"Search For Company",
+  "@search_for_company":{
+    "description": "Search For Company"
+  },
+  "results_for_sub_category":"Results For Sub Category",
+  "@results_for_sub_category":{
+    "description": "Results For SubCategory"
+  },
+  "advanced_search":"Advanced Search",
+  "@advanced_search":{
+    "description": "Advanced Search"
+  },
+  "main_category":"Main Category",
+  "@main_category":{
+    "description": "Main Category"
+  },
+  "sub_category":"Sub Category",
+  "@sub_category":{
+    "description": "Sub Category"
+  },
+  "city":"City",
+  "@city":{
+    "description": "City"
+  },
+  "district":"District",
+  "@district":{
+    "description": "District"
+  },
+  "reset":"RESET",
+  "@reset":{
+    "description": "RESET"
+  },
+  "search":"SEARCH",
+  "@search":{
+    "description": "SEARCH"
+  },
+  "info":"Info",
+  "@info":{
+    "description": "Info"
+  },
+  "gallery":"Gallery",
+  "@gallery":{
+    "description": "Gallery"
+  },
+  "owner":"Owner",
+  "@owner":{
+    "description": "Owner"
+  },
+  "show_more":"Show More",
+  "@show_more":{
+    "description": "Show More"
+  },
+  "show_less":"Show Less",
+  "@show_less":{
+    "description": "Show Less"
+  },
+  "saturday":"Saturday",
+  "@saturday":{
+    "description": "Saturday"
+  },
+  "sunday":"Sunday",
+  "@sunday":{
+    "description": "Sunday"
+  },
+  "monday":"Monday",
+  "@monday":{
+    "description": "Monday"
+  },
+  "tuesday":"Tuesday",
+  "@tuesday":{
+    "description": "Tuesday"
+  },
+  "wednesday":"Wednesday",
+  "@wednesday":{
+    "description": "Wednesday"
+  },
+  "thursday":"Thursday",
+  "@thursday":{
+    "description": "Thursday"
+  },
+  "friday":"Friday",
+  "@friday":{
+    "description": "Friday"
+  },
+  "registration_number":"Registration Number",
+  "@registration_number":{
+    "description": "Registration Number"
+  },
+  "reservation_date":"Reservation Date",
+  "@reservation_date":{
+    "description": "Reservation Date"
+  },
+  "registration_date":"Registration Date",
+  "@registration_date":{
+    "description": "Registration Date"
+  },
+  "contact_number":"Contact Number",
+  "@contact_number":{
+    "description": "Contact Number"
+  },
+  "work_hours":"Work Hours",
+  "@work_hours":{
+    "description": "Work Hours"
+  },
+  "all":"All",
+  "@all":{
+    "description": "All"
+  },
+  "am":"AM",
+  "@am":{
+    "description": "AM"
+  },
+  "pm":"PM",
+  "@pm":{
+    "description": "PM"
+  },
+  "no_data_found":"No Data Found",
+  "@no_data_found":{
+    "description": "No Data Found"
+  },
+  "tap_anywhere_to_relode":"Tap anywhere to relode",
+  "@tap_anywhere_to_relode":{
+    "description": "Tap anywhere to relode"
+  },
+  "results_of_your_search":"Results Of Your Search",
+  "@results_of_your_search":{
+    "description": "Results Of Your Search"
+  },
+  "opened_now":"Opened now",
+  "@opened_now":{
+    "description": "Opened now"
+  },
+  "closes_on":"Closes on",
+  "@closes_on":{
+    "description": "Closes on"
+  },
+  "closed":"Closed",
+  "@closed":{
+    "description": "Closed"
+  },
+  "something_went_wrong":"Oops! Something Went Wrong.",
+  "@something_went_wrong":{
+    "description": "Oops! Something Went Wrong."
+  },
+  "branches":"Branches",
+  "@branches":{
+    "description": "Branches"
+  },
+  "menu":"Menu",
+  "@menu":{
+    "description": "Menu"
+  },
+  "opened_all_day":"Opened All Day",
+  "@opened_all_day":{
+    "description": "Opened All Day"
+  },
+  "opens_on":"Opens on",
+  "@opens_on":{
+    "description": "Opens on"
+  },
+  "km":"Km",
+  "@km":{
+    "description": "Km"
+  },
+  "m":"m",
+  "@m":{
+    "description": "m"
+  },
+  "please_choose_category_first":"please choose category first",
+  "@please_choose_category_first":{
+    "description": "m"
+  },
+  "general_information":"General Information",
+  "@general_information":{
+    "description": "General Information"
+  },
+  "merchant_name":"Merchant Name",
+  "@merchant_name":{
+    "description": "Merchant Name"
+  },
+  "contact_information":"Contact Information",
+  "@contact_information":{
+    "description": "Contact Information"
+  },
+  "about":"About",
+  "@about":{
+    "description": "About"
+  }
+}
